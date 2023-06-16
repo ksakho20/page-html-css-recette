@@ -1,0 +1,64 @@
+body
+{
+        background:red ;
+}
+h1
+{  
+        border-right:3px white solid;
+        border-radius: 20px /10px;
+        text-shadow: 6px 6px  6px black;
+
+}
+a:hover
+{
+  text-shadow:6px 6px 6px black;
+  color:black;
+}
+p,ul,li
+{
+  color :white;
+  font-family: sans-serif
+}
+
+.imgvisuel
+{
+  text-align: right;
+  background: red;
+}
+h2
+{
+  color :yellow;
+}
+.usage
+{
+  text-decoration:underline;
+}
+.cursive
+{
+  font-family: cursive;
+}
+#plat
+{
+  color:blue;
+}
+.cool
+{
+  color:rgb(0, 225, 255)  ;
+}
+
+.intro
+{
+  border: 3px  blue dotted;
+  border-radius: 20px / 10px;
+  box-shadow : 6px 6px 6px;
+  text-shadow:6px 6px 6px;
+  padding:5px;
+}
+.image
+{
+  text-align: center;
+}
+a
+{
+  text-decoration:none;
+}
